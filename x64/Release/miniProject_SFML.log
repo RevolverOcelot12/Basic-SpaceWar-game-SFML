@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(42,77): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(42,77): warning C4244:         with
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(42,77): warning C4244:         [
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(42,77): warning C4244:             T=float
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(42,77): warning C4244:         ]
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(42,59): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(42,59): warning C4244:         with
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(42,59): warning C4244:         [
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(42,59): warning C4244:             T=float
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(42,59): warning C4244:         ]
+  Generating code
+  4 of 180 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  miniProject_SFML.vcxproj -> D:\Nueva carpeta\coding\miniProject_SFML\x64\Release\miniProject_SFML.exe

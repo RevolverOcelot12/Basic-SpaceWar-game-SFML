@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(47,77): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(47,77): warning C4244:         with
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(47,77): warning C4244:         [
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(47,77): warning C4244:             T=float
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(47,77): warning C4244:         ]
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(47,59): warning C4244: 'argumento': conversión de 'unsigned int' a 'T'; posible pérdida de datos
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(47,59): warning C4244:         with
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(47,59): warning C4244:         [
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(47,59): warning C4244:             T=float
+D:\Nueva carpeta\coding\miniProject_SFML\main.cpp(47,59): warning C4244:         ]
+  miniProject_SFML.vcxproj -> D:\Nueva carpeta\coding\miniProject_SFML\x64\Debug\miniProject_SFML.exe
